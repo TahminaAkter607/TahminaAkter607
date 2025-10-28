@@ -42,8 +42,8 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<img src="https://raw.githubusercontent.com/tahmina/tahmina/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/tahmina/tahmina/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
