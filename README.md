@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tahmina Akter and I'm a Front-End Web Developer & UI/UX Designer, from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Tahmina Akter and I'm a Web Developer & UI/UX Designer, from Bangladesh</h2>
 
 ###
 
